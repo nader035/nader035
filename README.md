@@ -6,6 +6,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://i.pinimg.com/1200x/61/a0/77/61a077068550dc3a460de8dddbc906fb.jpg"  />
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="15" />
@@ -41,14 +47,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/1200x/61/a0/77/61a077068550dc3a460de8dddbc906fb.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.nader035&"  />
 </div>
 
 ###
@@ -60,4 +60,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nader035&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=NaderMohammed" height="150" alt="languages graph"  />
 </div>
 
-
+###
